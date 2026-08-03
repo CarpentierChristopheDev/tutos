@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/MeteoApp/bin/Debug/net10.0/MeteoApp
+/home/chris/Prog/csharp/MeteoApp/bin/Debug/net10.0/MeteoApp.deps.json
+/home/chris/Prog/csharp/MeteoApp/bin/Debug/net10.0/MeteoApp.runtimeconfig.json
+/home/chris/Prog/csharp/MeteoApp/bin/Debug/net10.0/MeteoApp.dll
+/home/chris/Prog/csharp/MeteoApp/bin/Debug/net10.0/MeteoApp.pdb
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.AssemblyInfo.cs
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.dll
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/refint/MeteoApp.dll
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.pdb
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/MeteoApp.genruntimeconfig.cache
+/home/chris/Prog/csharp/MeteoApp/obj/Debug/net10.0/ref/MeteoApp.dll
