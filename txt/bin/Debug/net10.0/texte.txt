@@ -1,0 +1,5 @@
+Bonjour, 
+ceci est un fichier
+sur plusieurs lignes
+pour test de lecture
+àéèê€îù@
