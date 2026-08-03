@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/json/bin/Debug/net10.0/json
+/home/chris/Prog/csharp/json/bin/Debug/net10.0/json.deps.json
+/home/chris/Prog/csharp/json/bin/Debug/net10.0/json.runtimeconfig.json
+/home/chris/Prog/csharp/json/bin/Debug/net10.0/json.dll
+/home/chris/Prog/csharp/json/bin/Debug/net10.0/json.pdb
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.AssemblyInfo.cs
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.dll
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/refint/json.dll
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.pdb
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/json.genruntimeconfig.cache
+/home/chris/Prog/csharp/json/obj/Debug/net10.0/ref/json.dll
