@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/dates/bin/Debug/net10.0/dates
+/home/chris/Prog/csharp/dates/bin/Debug/net10.0/dates.deps.json
+/home/chris/Prog/csharp/dates/bin/Debug/net10.0/dates.runtimeconfig.json
+/home/chris/Prog/csharp/dates/bin/Debug/net10.0/dates.dll
+/home/chris/Prog/csharp/dates/bin/Debug/net10.0/dates.pdb
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.AssemblyInfo.cs
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.dll
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/refint/dates.dll
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.pdb
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/dates.genruntimeconfig.cache
+/home/chris/Prog/csharp/dates/obj/Debug/net10.0/ref/dates.dll
