@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/obj/bin/Debug/net10.0/obj
+/home/chris/Prog/csharp/obj/bin/Debug/net10.0/obj.deps.json
+/home/chris/Prog/csharp/obj/bin/Debug/net10.0/obj.runtimeconfig.json
+/home/chris/Prog/csharp/obj/bin/Debug/net10.0/obj.dll
+/home/chris/Prog/csharp/obj/bin/Debug/net10.0/obj.pdb
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.AssemblyInfo.cs
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.dll
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/refint/obj.dll
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.pdb
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/obj.genruntimeconfig.cache
+/home/chris/Prog/csharp/obj/obj/Debug/net10.0/ref/obj.dll
