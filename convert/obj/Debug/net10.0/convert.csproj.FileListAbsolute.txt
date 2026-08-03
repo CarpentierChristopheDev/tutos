@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/convert/bin/Debug/net10.0/convert
+/home/chris/Prog/csharp/convert/bin/Debug/net10.0/convert.deps.json
+/home/chris/Prog/csharp/convert/bin/Debug/net10.0/convert.runtimeconfig.json
+/home/chris/Prog/csharp/convert/bin/Debug/net10.0/convert.dll
+/home/chris/Prog/csharp/convert/bin/Debug/net10.0/convert.pdb
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.AssemblyInfo.cs
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.dll
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/refint/convert.dll
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.pdb
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/convert.genruntimeconfig.cache
+/home/chris/Prog/csharp/convert/obj/Debug/net10.0/ref/convert.dll
