@@ -1,32 +1,28 @@
 ﻿namespace TestRecord;
 
-record Client
-{
-    public string Nom {get; set; } = "";
-    public string Prenom {get; set;} = "";
-}
+// Constructeur et destructeur en 1 seule ligne 
+record Client(string Nom, string Prenom);
 class Program
 {
     public static void Main()
     {
-        Client c1 = new Client();
-        c1.Nom = "Test";
-        c1.Prenom = "Test2";
-        Console.WriteLine(c1.ToString()); // ToString gratuit pour débug
+        Console.WriteLine("Travail sur les records"); 
 
-        Client c2 = new Client();
-        c2.Nom = "Test";
-        c2.Prenom = "Test2";
-        Console.WriteLine(c2.ToString());
+        Client c1 = new Client("Test", "Test2"); // Constructeur automatique
+        Console.WriteLine($"c1 : {c1.ToString()}"); // ToString automatique pour débug
 
-        // Test l"égalité des données
+        Client c2 = new Client("Test", "Test2");
+        Console.WriteLine($"c2 : {c2.ToString()}");
+
+        // Test l"égalité par valeur automatique
+        Console.Write("Test d'égalité ( c1 == c2 ) : ");
         if(c1 == c2)
         {
-            Console.WriteLine("Données OK");
+            Console.WriteLine("Egalité sur les valeurs");
         }
         else
         {
-            Console.WriteLine("Données KO");
+            Console.WriteLine("Pas d'égalité sur les valeurs");
         }
     }
 }
