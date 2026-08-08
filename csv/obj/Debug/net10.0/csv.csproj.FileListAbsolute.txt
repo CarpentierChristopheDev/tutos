@@ -1,0 +1,17 @@
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/csv
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/csv.deps.json
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/csv.runtimeconfig.json
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/csv.dll
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/csv.pdb
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.AssemblyInfo.cs
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.dll
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/refint/csv.dll
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.pdb
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.genruntimeconfig.cache
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/ref/csv.dll
+/home/chris/Prog/csharp/csv/bin/Debug/net10.0/CsvHelper.dll
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.csproj.AssemblyReference.cache
+/home/chris/Prog/csharp/csv/obj/Debug/net10.0/csv.csproj.Up2Date
