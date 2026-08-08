@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/records/bin/Debug/net10.0/records
+/home/chris/Prog/csharp/records/bin/Debug/net10.0/records.deps.json
+/home/chris/Prog/csharp/records/bin/Debug/net10.0/records.runtimeconfig.json
+/home/chris/Prog/csharp/records/bin/Debug/net10.0/records.dll
+/home/chris/Prog/csharp/records/bin/Debug/net10.0/records.pdb
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.AssemblyInfo.cs
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.dll
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/refint/records.dll
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.pdb
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/records.genruntimeconfig.cache
+/home/chris/Prog/csharp/records/obj/Debug/net10.0/ref/records.dll
