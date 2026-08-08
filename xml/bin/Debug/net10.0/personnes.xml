@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personnes>
+    <Personne>
+        <Nom>Dupont</Nom>
+        <Age>30</Age>
+    </Personne>
+    <Personne>
+        <Nom>Martin</Nom>
+        <Age>25</Age>
+    </Personne>
+</Personnes>

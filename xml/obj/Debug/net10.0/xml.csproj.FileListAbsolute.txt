@@ -1,0 +1,14 @@
+/home/chris/Prog/csharp/xml/bin/Debug/net10.0/xml
+/home/chris/Prog/csharp/xml/bin/Debug/net10.0/xml.deps.json
+/home/chris/Prog/csharp/xml/bin/Debug/net10.0/xml.runtimeconfig.json
+/home/chris/Prog/csharp/xml/bin/Debug/net10.0/xml.dll
+/home/chris/Prog/csharp/xml/bin/Debug/net10.0/xml.pdb
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.GeneratedMSBuildEditorConfig.editorconfig
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.AssemblyInfoInputs.cache
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.AssemblyInfo.cs
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.csproj.CoreCompileInputs.cache
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.dll
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/refint/xml.dll
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.pdb
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/xml.genruntimeconfig.cache
+/home/chris/Prog/csharp/xml/obj/Debug/net10.0/ref/xml.dll
